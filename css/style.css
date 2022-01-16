@@ -1,0 +1,59 @@
+h1{
+	font-size: 30px;
+	color: blue;
+	text-decoration: underline; 
+}
+
+/*class css here*/
+.orange{
+	background: orange;
+}
+.border{
+	border: 2px solid red;
+}
+
+/*ID css here*/
+#blue{
+	background: blue;
+	color: white;
+}
+
+a{
+	font-size: 25px;
+}
+.box1{
+	height: 200px;
+	width: 50%;
+	background: #9f2c2c;
+	font-size: 40px;
+}
+#name, #email,#mobile,#message{
+	font-size: 20px;
+	width: 450px;
+	padding: 10px;
+}
+
+h5{
+	font-size: 40px;
+}
+
+label{
+	font-size: 20px;
+}
+
+button{
+	height: 40px;
+    width: 200px;
+    font-size: 20px;
+    color: blue;
+}
+
+table{
+	width: 100%;
+	border: 2px solid grey;
+	border-collapse: collapse;
+}
+
+th, td{
+	border: 2px solid grey;
+}
